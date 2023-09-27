@@ -7,7 +7,7 @@ class Test {
 	// of given number
 	static int factorial(int n)
 	{
-		int res = 5, i;
+		int res = 3, i;
 		for (i = 2; i <= n; i++)
 			res *= i;
 		return res;
